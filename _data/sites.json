@@ -25871,4 +25871,14 @@
             "sdamgia.ru"
         ]
     }
+
+    {
+
+        "name": "LifeAt",
+        "url": "https://lifeat.io/delete",
+        "difficulty": "easy",
+        "domains": [
+            "https://lifeat.io"
+        ]
+    }
 ]
